@@ -22,4 +22,4 @@ public class Batch7Application {
 		logger.error("Error processing request");
 	}
 
-}
+
